@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox", "Mindbox\Mindbox.csproj", "{0C06F04F-2415-4D12-8912-45EE2850B444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestShape", "TestShape\TestShape.csproj", "{CE4B723D-C7DE-447E-823E-3F4A39244CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C06F04F-2415-4D12-8912-45EE2850B444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C06F04F-2415-4D12-8912-45EE2850B444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C06F04F-2415-4D12-8912-45EE2850B444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C06F04F-2415-4D12-8912-45EE2850B444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4B723D-C7DE-447E-823E-3F4A39244CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4B723D-C7DE-447E-823E-3F4A39244CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4B723D-C7DE-447E-823E-3F4A39244CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4B723D-C7DE-447E-823E-3F4A39244CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE714CE9-191B-44E2-953A-9AB8B761FCC8}
+	EndGlobalSection
+EndGlobal
